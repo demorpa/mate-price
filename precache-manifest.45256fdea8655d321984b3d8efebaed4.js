@@ -152,20 +152,20 @@ self.__precacheManifest = [
     "url": "/mate-price/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
-    "revision": "46e48ce0628835f68a7369d0254e4283",
-    "url": "/mate-price/static/media/Roboto-Light.46e48ce0.ttf"
-  },
-  {
     "revision": "94998475f6aea65f558494802416c1cf",
     "url": "/mate-price/static/media/Roboto-Thin.94998475.ttf"
   },
   {
-    "revision": "df7b648ce5356ea1ebce435b3459fd60",
-    "url": "/mate-price/static/media/Roboto-Regular.df7b648c.ttf"
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/mate-price/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
     "revision": "894a2ede85a483bf9bedefd4db45cdb9",
     "url": "/mate-price/static/media/Roboto-Medium.894a2ede.ttf"
+  },
+  {
+    "revision": "df7b648ce5356ea1ebce435b3459fd60",
+    "url": "/mate-price/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
     "revision": "b8ed9c8028679cdd332f",
