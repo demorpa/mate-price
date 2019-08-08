@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/mate-price/static/media/arrow_right.8ef6a08c.svg"
   },
   {
-    "revision": "77feef9749921729dec2",
-    "url": "/mate-price/static/css/main.40a23131.chunk.css"
+    "revision": "8d5cf7e886e2621bf6c2",
+    "url": "/mate-price/static/css/main.c5a348f2.chunk.css"
   },
   {
     "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
     "url": "/mate-price/static/media/Roboto-Bold.e31fcf18.ttf"
   },
   {
-    "revision": "b8ed9c8028679cdd332f",
-    "url": "/mate-price/static/js/1.b8ed9c80.chunk.js"
+    "revision": "6609a891d33c85cc3598",
+    "url": "/mate-price/static/js/1.6609a891.chunk.js"
   },
   {
     "revision": "4e851a2dfa4d706b7a11",
@@ -56,24 +56,24 @@ self.__precacheManifest = [
     "url": "/mate-price/static/media/fa-solid-900.0be94a07.woff"
   },
   {
-    "revision": "b7d071b9c3c197bff4af902070622423",
-    "url": "/mate-price/static/media/fa-brands-400.b7d071b9.ttf"
-  },
-  {
     "revision": "8e49b728413079dfd9ee45d0c58d54e4",
     "url": "/mate-price/static/media/fa-brands-400.8e49b728.eot"
+  },
+  {
+    "revision": "b7d071b9c3c197bff4af902070622423",
+    "url": "/mate-price/static/media/fa-brands-400.b7d071b9.ttf"
   },
   {
     "revision": "da8a235bb207c74eea21507f3a86a53b",
     "url": "/mate-price/static/media/fa-regular-400.da8a235b.svg"
   },
   {
-    "revision": "f14c3b2ff7c821a4c838debbffd6ad2d",
-    "url": "/mate-price/static/media/fa-solid-900.f14c3b2f.ttf"
-  },
-  {
     "revision": "e2675a616b68f446fa6284c111554c7f",
     "url": "/mate-price/static/media/fa-solid-900.e2675a61.eot"
+  },
+  {
+    "revision": "f14c3b2ff7c821a4c838debbffd6ad2d",
+    "url": "/mate-price/static/media/fa-solid-900.f14c3b2f.ttf"
   },
   {
     "revision": "38975343b586296e9b73e6b56cc3ec5d",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "/mate-price/static/media/arrow_left.11911410.svg"
   },
   {
-    "revision": "77feef9749921729dec2",
-    "url": "/mate-price/static/js/main.77feef97.chunk.js"
+    "revision": "8d5cf7e886e2621bf6c2",
+    "url": "/mate-price/static/js/main.8d5cf7e8.chunk.js"
   },
   {
     "revision": "dfe56a876d0282555d1e2458e278060f",
@@ -144,35 +144,35 @@ self.__precacheManifest = [
     "url": "/mate-price/static/media/Roboto-Regular.ba3dcd89.woff"
   },
   {
-    "revision": "dc81817def276b4f21395f7ea5e88dcd",
-    "url": "/mate-price/static/media/Roboto-Bold.dc81817d.woff"
-  },
-  {
     "revision": "fc78759e93a6cac50458610e3d9d63a0",
     "url": "/mate-price/static/media/Roboto-Medium.fc78759e.woff"
+  },
+  {
+    "revision": "dc81817def276b4f21395f7ea5e88dcd",
+    "url": "/mate-price/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
     "revision": "94998475f6aea65f558494802416c1cf",
     "url": "/mate-price/static/media/Roboto-Thin.94998475.ttf"
   },
   {
-    "revision": "46e48ce0628835f68a7369d0254e4283",
-    "url": "/mate-price/static/media/Roboto-Light.46e48ce0.ttf"
-  },
-  {
     "revision": "df7b648ce5356ea1ebce435b3459fd60",
     "url": "/mate-price/static/media/Roboto-Regular.df7b648c.ttf"
+  },
+  {
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/mate-price/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
     "revision": "894a2ede85a483bf9bedefd4db45cdb9",
     "url": "/mate-price/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
-    "revision": "b8ed9c8028679cdd332f",
-    "url": "/mate-price/static/css/1.36a6efa0.chunk.css"
+    "revision": "6609a891d33c85cc3598",
+    "url": "/mate-price/static/css/1.8e4733be.chunk.css"
   },
   {
-    "revision": "c28aca709ea6903d0b1a8cce2d9c51b2",
+    "revision": "7e0d23145417bc3dc48f4f4349ad9aed",
     "url": "/mate-price/index.html"
   }
 ];
